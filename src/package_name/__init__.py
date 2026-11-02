@@ -1,4 +1,4 @@
-"""PACKAGE_DESCRIPTION"""
+"""The package-name package."""
 
 from importlib.metadata import version
 
